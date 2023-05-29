@@ -1,0 +1,34 @@
+{
+    "therapy" : [
+    {
+      "id": 1,
+      "description": "General Acupuncture, auricular and cranial",
+      "url": "/images/img 8.jpg"
+    },
+    {
+      "id": 2,
+      "description": "laser therapy, terahertz and infrared",
+      "url": "/images/img 7.jpg"
+    },
+    {
+      "id": 3,
+      "description": "therapies by Ventos",
+      "url": "/images/img 11.jpg"
+    },
+    {
+      "id": 4,
+      "description": "reflexogy, planter",
+      "url": "/images/img 9.jpg"
+    },
+    {
+      "id": 5,
+      "description": "massage therapeutic",
+      "url": "/images/img 1.jpg"
+    },
+    {
+      "id": 6,
+      "description": "Medicine anti-aging",
+      "url": "/images/img 2.jpg"
+    }
+  ]
+}

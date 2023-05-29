@@ -1,0 +1,100 @@
+// CSS VARIABLES
+$orange: orange;
+$bg: #f0f0f0;
+$green: #056a3e;
+$lime: #eef075;
+$gray: #444343;
+
+// GENERAL STYLES
+
+.partners{
+    // padding: 80px 6em 20px;
+    padding: 0px 6em 0px;
+    background: $bg;
+    @media (max-width: 450px) {
+      padding: 0;
+    }
+  }
+
+.general_text {
+    display: flex;
+    flex-direction: column;
+    @media (max-width: 450px) {
+      width: 70%;
+      margin: 0 auto;
+    }
+    h2 {
+      font-size: 2.5em;
+      text-transform: uppercase;
+      margin-bottom: 0;
+      font-weight: 700;
+      @media (max-width: 450px) {
+        font-size: 1.2em;
+      }
+    }
+    .general_div {
+      background: $green;
+      width: 70px;
+      height: 5px;
+    }
+  }
+
+// PARTNERS STYLES
+.partners .general_text {
+    @media (max-width: 450px) {
+      padding-top: 40px;
+    }
+  }
+  
+  .partners_residence {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    // border: 2px solid red;
+    // box-shadow:  1px 1px 2px rgb(17, 17, 17);
+    min-height: 130px;
+    // background: $bg;
+    @media (max-width: 900px) {
+      margin-top: 30px;
+      gap: 10px;
+    }
+    @media (max-width: 450px) {
+      display: grid;
+      justify-content: center;
+      padding-bottom: 30px;
+    }
+    div {
+      background: #fff;
+      color: $green;
+      padding: 15px 63px;
+      font-size: 25px;
+      font-weight: 700;
+      max-width: 400px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      @media (max-width: 900px) {
+        padding: 10px 20px;
+        font-size: 16px;
+        width: 500px;
+      }
+      @media (max-width: 450px) {
+        width: 230px;
+        padding: 20px 0;
+      }
+    }
+  }
+
+  .background {
+    background: $bg;
+    padding-bottom: 30px;
+    // border: 2px solid green;
+    @media(max-width:900px) {
+        padding: 30px 100px;
+        // border
+    }
+    @media(max-width:500px) {
+        padding: 30px 0px 50px 0;
+    }
+  }

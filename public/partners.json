@@ -1,0 +1,33 @@
+{
+    "items": {
+      "bootstrap": [
+      ],
+      "elastic": [
+        {
+          "id": 1,
+          "name": "Sabrinel Laboratoires",
+          "imageUrl": "https://res.cloudinary.com/kizmelvin/image/upload/v1645530542/kizmelvin/Carousel%20assets/luwadlin-bosman-J1oObe7WWjk-unsplash_f56oh3.jpg",
+          "description":"J’ai eu le plaisir d’être accompagné par Ber trand. Il a ce talent de vous aider à la fois sur la logique, et à la fois sur l'émotion. Je vous recommande grandement de travailler avec Ber trand Jacob"
+        },
+        {
+          "id": 2,
+          "name": "Morgan and Wilfried Laboratory",
+          "imageUrl": "https://res.cloudinary.com/kizmelvin/image/upload/v1645529949/kizmelvin/Carousel%20assets/ali-kazal-q9rpNOd1hcI-unsplash_fhaqzq.jpg",
+          "description":"Sur le temps de collaboration, j'ai été vraiment extrêmement contente. Je trouve que dans le milieu, c est vraiment une entreprise qui a à cœur d aider ses clients, qui est transparente, sincère et réactive."
+        },
+        {
+          "id": 3,
+          "name": "Herbalia Industries",
+          "imageUrl": "https://res.cloudinary.com/kizmelvin/image/upload/v1645530199/kizmelvin/Carousel%20assets/slim-emcee-jzdOX0XkXr8-unsplash_zocsdq.jpg",
+          "description":"We asked Ber trand to manage the profile of our branch managers KBC Brussels and we got a splendid result, a growth of 23% after 4 weeks. Congratulations and thanks, Ber trand!"
+        },
+        {
+          "id": 4,
+          "name": "Morgan and Wilfried Laboratory",
+          "imageUrl": "https://res.cloudinary.com/kizmelvin/image/upload/v1645530863/kizmelvin/Carousel%20assets/francisco-t-santos-YRcioOWh4mA-unsplash_1_yoowse.jpg",
+          "description":"We asked Ber trand to manage the profile of our branch managers KBC Brussels and we got a splendid result, a growth of 23% after 4 weeks. Congratulations and thanks, Ber trand!"
+        }
+      ]
+    }
+  }
+  
